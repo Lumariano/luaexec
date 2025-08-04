@@ -3,7 +3,7 @@
 This ashita addon is designed to run one-off lua scripts.
 
 ## Usage
-Place or create your and edit your scripts inside of `<ashita_root>\addons\luaexec\scripts` and interact with them using the following commands:
+Place or create and edit your scripts inside of `<ashita_root>\addons\luaexec\scripts` and interact with them using the following commands:
 * `/luaexec list`: Lists all available lua scripts in your scripts folder.
 * `/luaexec (exec|e) <script> args...`: Executes the given script with the given arguments.
 
